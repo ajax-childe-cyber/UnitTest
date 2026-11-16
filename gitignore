@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+*.ipch
+*.aps
+
+# Папки сборки
+Debug/
+Release/
+x64/
+x86/
+Win32/
+bin/
+obj/
+[Bb]uild/
+
+# Результаты сборки и временные файлы
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.tlog
+*.log
+*.pch
+*.ipdb
+*.iobj
+
+# Результаты тестов
+TestResults/
+*.trx
+*.coverage
+
+# Прочее
+*.tmp
+*.bak
+Thumbs.db
